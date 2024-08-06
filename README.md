@@ -43,3 +43,13 @@ This portfolio website is designed to provide a comprehensive overview of my ski
 
    ```bash
    git clone https://github.com/Aas-ish/portfolio-website.git
+
+
+### Instructions for Using the README
+
+1. Replace `your-username` in the clone URL with your GitHub username.
+2. Replace `path/to/screenshot.png` with the actual path to a screenshot of your portfolio website.
+3. Update the contact information with your actual email, LinkedIn, and Twitter handle.
+
+Feel free to customize the README further to better match your project and personal style.
+
