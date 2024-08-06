@@ -42,4 +42,4 @@ This portfolio website is designed to provide a comprehensive overview of my ski
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Aas-ish/portfolio-website.git
