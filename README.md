@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer.
 
-![Portfolio Screenshot](path/to/images/screenshoot1)
+![Portfolio Screenshot](path/to/images/screenshoot1.png)
 
 ## Table of Contents
 
